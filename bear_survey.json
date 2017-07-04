@@ -1,10 +1,10 @@
 {
   "questions": [
     {
-      "body": "What type of batman do you like?",
+      "body": "What type of wonderwoman do you like?",
       "kind": "numeric"
     }
 
   ],
-  "title": "About Batman"
+  "title": "About wonderwoman"
 }
